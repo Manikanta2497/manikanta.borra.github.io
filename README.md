@@ -42,19 +42,3 @@ The site has undergone significant visual and interactive enhancements, focusing
     *   Interactive header name animation and mouse-tracking effects.
     *   Graceful degradation for non-JavaScript environments (e.g., initial visibility of animated elements).
 
-## How to View
-
-**Live Site:**
-The website is deployed on GitHub Pages and can be viewed at:
-[https://jthiruveedula.github.io/](https://jthiruveedula.github.io/)
-
-**Local Viewing:**
-1.  Clone the repository:
-    ```bash
-    git clone https://github.com/jthiruveedula/jthiruveedula.github.io.git
-    ```
-2.  Navigate to the repository directory:
-    ```bash
-    cd jthiruveedula.github.io
-    ```
-3.  Open the `index.html` file in your preferred web browser.
