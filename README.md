@@ -41,4 +41,3 @@ The site has undergone significant visual and interactive enhancements, focusing
     *   IntersectionObserver API for scroll-triggered animations.
     *   Interactive header name animation and mouse-tracking effects.
     *   Graceful degradation for non-JavaScript environments (e.g., initial visibility of animated elements).
-
